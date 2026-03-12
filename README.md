@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Csaba 👋
 
-<!--
-**csabametzg/csabametzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Automation Developer focused on automation, API integrations and data processing.
 
-Here are some ideas to get you started:
+## 🔧 Technologies
+- Python
+- REST APIs
+- Automation scripts
+- Data processing
+- WooCommerce API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### WooCommerce Daily Report Automation
+Python script that retrieves WooCommerce order data and sends automated email reports.
+
+### Amazon Price Tracker
+Automation script that tracks product prices and detects changes.
+
+### Internet Speed Twitter Bot
+Script that measures internet speed and automatically sends a complaint tweet to the provider.
+
+## 🌐 Website
+https://pythonproject.hu
+
+## 📫 Contact
+LinkedIn: https://linkedin.com/in/mcsaba
