@@ -14,11 +14,13 @@ Python Automation Developer focused on automation, API integrations and data pro
 ### WooCommerce Daily Report Automation
 Python script that retrieves WooCommerce order data and sends automated email reports.
 
+### E-commerce Marketing Data Aggregator
+Python project that aggregates e-commerce order data and email marketing campaign data into a simple business performance report.
+
 ### Amazon Price Tracker
 Automation script that tracks product prices and detects changes.
 
-### Internet Speed Twitter Bot
-Script that measures internet speed and automatically sends a complaint tweet to the provider.
+
 
 ## 🌐 Website
 https://pythonproject.hu
