@@ -4,9 +4,9 @@ Python Automation Developer focused on automation, API integrations and data pro
 
 ## 🔧 Technologies
 - Python
-- REST APIs
-- Automation scripts
-- Data processing
+- REST APIs (requests)
+- Automation scripting
+- Data processing (JSON, CSV)
 - WooCommerce API
 
 ## 🚀 Projects
