@@ -11,6 +11,9 @@ Python Automation Developer focused on automation, API integrations and data pro
 
 ## 🚀 Projects
 
+### User Posts Report Generator
+Python automation script that fetches user and post data from a public API, processes the data, and generates reports in JSON, TXT, and CSV formats.
+
 ### Ecommerce Analytics Pipeline
 Python-based ecommerce data pipeline with REST API ingestion, SQLite storage, analytics, and automated reporting with CLI support.
 
