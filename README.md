@@ -11,6 +11,9 @@ Python Automation Developer focused on automation, API integrations and data pro
 
 ## 🚀 Projects
 
+### Startup Outreach Finder
+Python automation tool that collects, analyzes, scores, and prioritizes startup leads for targeted outreach.
+
 ### User Posts Report Generator
 Python automation script that fetches user and post data from a public API, processes the data, and generates reports in JSON, TXT, and CSV formats.
 
