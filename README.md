@@ -11,6 +11,9 @@ Python Automation Developer focused on automation, API integrations and data pro
 
 ## 🚀 Projects
 
+### AutoPi OpenAPI Explorer
+A Python-based OpenAPI parser and endpoint explorer built from the public AutoPi OpenAPI specification.
+
 ### Startup Outreach Finder
 Python automation tool that collects, analyzes, scores, and prioritizes startup leads for targeted outreach.
 
