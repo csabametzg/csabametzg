@@ -11,6 +11,9 @@ Python Automation Developer focused on automation, API integrations and data pro
 
 ## 🚀 Projects
 
+### Eyeson Room Flow Explorer
+FastAPI + JavaScript demo project for exploring the Eyeson REST API room creation workflow.
+
 ### AutoPi OpenAPI Explorer
 A Python-based OpenAPI parser and endpoint explorer built from the public AutoPi OpenAPI specification.
 
